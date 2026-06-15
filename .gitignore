@@ -1,0 +1,13 @@
+.DS_Store
+.idea/
+.vscode/settings.json
+
+**/node_modules/
+**/dist/
+web/.vite/
+*.log
+tsconfig.tsbuildinfo
+
+# Expo / mobile
+mobile/.expo/
+mobile/dist/

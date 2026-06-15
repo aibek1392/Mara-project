@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "Air Max Pulse",
+    "category": "men",
+    "price": 159.99,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&q=80",
+    "description": "Bold cushioning meets street-ready style. Lightweight mesh upper with responsive Air unit.",
+    "colors": ["Black", "White", "Red"],
+    "sizes": ["7", "8", "9", "10", "11", "12"]
+  },
+  {
+    "id": "2",
+    "name": "Revolution 7",
+    "category": "women",
+    "price": 74.99,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=800&q=80",
+    "description": "Everyday comfort for your daily miles. Soft foam midsole and breathable upper.",
+    "colors": ["Pink", "Grey", "Black"],
+    "sizes": ["5", "6", "7", "8", "9", "10"]
+  },
+  {
+    "id": "3",
+    "name": "Dunk Low Retro",
+    "category": "men",
+    "price": 115.0,
+    "image": "https://images.unsplash.com/photo-1606107557195-0a37455be67b?w=800&q=80",
+    "description": "Iconic basketball silhouette reimagined for the streets. Premium leather construction.",
+    "colors": ["Panda", "University Blue", "Green"],
+    "sizes": ["7", "8", "9", "10", "11", "12"]
+  },
+  {
+    "id": "4",
+    "name": "Blazer Mid '77",
+    "category": "women",
+    "price": 105.0,
+    "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a9?w=800&q=80",
+    "description": "Vintage hoops style with modern comfort. Suede and leather upper.",
+    "colors": ["White", "Navy", "Brown"],
+    "sizes": ["5", "6", "7", "8", "9", "10"]
+  },
+  {
+    "id": "5",
+    "name": "Cosmic Runner",
+    "category": "kids",
+    "price": 69.99,
+    "image": "https://images.unsplash.com/photo-1560769629-8535171b0a20?w=800&q=80",
+    "description": "Easy on, easy off for active kids. Durable outsole and fun colorways.",
+    "colors": ["Blue", "Orange", "Purple"],
+    "sizes": ["10C", "11C", "12C", "13C", "1Y", "2Y"]
+  },
+  {
+    "id": "6",
+    "name": "Tech Fleece Hoodie",
+    "category": "men",
+    "price": 130.0,
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800&q=80",
+    "description": "Premium warmth without bulk. Modern fit with signature Tech Fleece fabric.",
+    "colors": ["Black", "Grey", "Olive"],
+    "sizes": ["S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "id": "7",
+    "name": "Pro Dri-FIT Tee",
+    "category": "women",
+    "price": 35.0,
+    "image": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800&q=80",
+    "description": "Sweat-wicking performance for training and everyday wear.",
+    "colors": ["White", "Black", "Coral"],
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": "8",
+    "name": "Jordan 1 Low",
+    "category": "kids",
+    "price": 85.0,
+    "image": "https://images.unsplash.com/photo-1600269452121-4f2416e55c28?w=800&q=80",
+    "description": "Legendary Jordan style sized for the next generation.",
+    "colors": ["Bred", "Chicago", "Shadow"],
+    "sizes": ["10C", "11C", "12C", "13C", "1Y", "2Y"]
+  }
+]
